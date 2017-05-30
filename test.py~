@@ -1,0 +1,3 @@
+from levenshtein import lev
+
+print(lev("avoy", "datta"))
